@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/efkbook/blog-sample",
-	"GoVersion": "go1.8",
+	"GoVersion": "go1.14",
 	"GodepVersion": "v75",
 	"Deps": [
 		{
