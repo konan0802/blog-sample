@@ -50,7 +50,7 @@ $ make app/build
 # running docker containers by `docker-compose up -d`
 $ make run
 ```
-### **[ In my case ]**
+### **[ In My Case ]**
 ```bash
 # running docker containers
 $ docker-compose up -d
